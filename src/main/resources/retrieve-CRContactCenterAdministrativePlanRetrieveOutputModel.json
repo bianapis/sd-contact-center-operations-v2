@@ -1,0 +1,27 @@
+{
+  "contactCenterAdministrativePlanInstanceRecord" : {
+    "customerServicingRepresentativeRecord" : {
+      "customerServicingRepresentativeAssignmentRecord" : {},
+      "customerServicingRepresentativeStatus" : "customerServicingRepresentativeStatus",
+      "customerServicingRepresentativeAvailabilitySchedule" : "customerServicingRepresentativeAvailabilitySchedule",
+      "customerServicingRepresentativeQualificationProfile" : "customerServicingRepresentativeQualificationProfile",
+      "customerServicingRepresentativeLocation" : "customerServicingRepresentativeLocation"
+    },
+    "customerServicingRepresentativeAllocationSchedule" : "customerServicingRepresentativeAllocationSchedule",
+    "contactCenterServiceOperatingConfiguration" : "contactCenterServiceOperatingConfiguration",
+    "customerServicingRepresentativeReference" : "746762"
+  },
+  "contactCenterAdministrativePlanRetrieveActionTaskReference" : "CCAPRATR715620",
+  "contactCenterAdministrativePlanRetrieveActionTaskRecord" : {},
+  "contactCenterAdministrativePlanInstanceReportRecord" : {
+    "contactCenterAdministrativePlanInstanceReportData" : "contactCenterAdministrativePlanInstanceReportData",
+    "contactCenterAdministrativePlanInstanceReportType" : "contactCenterAdministrativePlanInstanceReportType",
+    "contactCenterAdministrativePlanInstanceReport" : {}
+  },
+  "contactCenterAdministrativePlanInstanceAnalysis" : {
+    "contactCenterAdministrativePlanInstanceAnalysisData" : "contactCenterAdministrativePlanInstanceAnalysisData",
+    "contactCenterAdministrativePlanInstanceAnalysisReport" : {},
+    "contactCenterAdministrativePlanInstanceAnalysisReportType" : "contactCenterAdministrativePlanInstanceAnalysisReportType"
+  },
+  "contactCenterAdministrativePlanRetrieveActionResponse" : "contactCenterAdministrativePlanRetrieveActionResponse"
+}

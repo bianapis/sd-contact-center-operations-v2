@@ -1,0 +1,9 @@
+{
+  "troubleshootingInstanceRecord" : {
+    "contactCenterProductionIssueRecord" : {},
+    "contactCenterIssueAnalysisAndRecommendedResponse" : "contactCenterIssueAnalysisAndRecommendedResponse"
+  },
+  "troubleshootingUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {},
+  "troubleshootingUpdateActionTaskReference" : "TUATR725270"
+}

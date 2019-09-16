@@ -1,0 +1,15 @@
+{
+  "peakLoadInstanceRecord" : {
+    "peakLoadResponseTask" : {
+      "peakLoadResponseTaskType" : "peakLoadResponseTaskType",
+      "peakLoadResponseDescription" : "peakLoadResponseDescription"
+    },
+    "contactCenterServiceStatistics" : {
+      "contactCenterServiceStatisticType" : "contactCenterServiceStatisticType"
+    }
+  },
+  "peakLoadRequestActionTaskReference" : "PLRATR774267",
+  "peakLoadRequestRecordReference" : "PLRRR715182",
+  "peakLoadRequestActionTaskRecord" : {},
+  "requestResponseRecord" : {}
+}

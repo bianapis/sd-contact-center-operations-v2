@@ -1,0 +1,13 @@
+{
+  "assignmentUpdateActionTaskRecord" : {},
+  "assignmentInstanceRecord" : {
+    "assignmentCustomerServicingPositionReference" : "741736",
+    "assignmentCustomerServicingRepresentative" : "assignmentCustomerServicingRepresentative",
+    "assignmentCustomerServicingPositionProfile" : "assignmentCustomerServicingPositionProfile",
+    "assignmentCustomerServicingPositionSchedule" : {
+      "customerContactSessionProcedureInstanceReference" : "780228"
+    }
+  },
+  "assignmentUpdateActionTaskReference" : "AUATR724689",
+  "updateResponseRecord" : {}
+}

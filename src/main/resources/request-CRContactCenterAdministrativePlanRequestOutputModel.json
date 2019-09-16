@@ -1,0 +1,18 @@
+{
+  "contactCenterAdministrativePlanInstanceRecord" : {
+    "customerServicingRepresentativeRecord" : {
+      "customerServicingRepresentativeAssignmentRecord" : {},
+      "customerServicingRepresentativeStatus" : "customerServicingRepresentativeStatus",
+      "customerServicingRepresentativeAvailabilitySchedule" : "customerServicingRepresentativeAvailabilitySchedule",
+      "customerServicingRepresentativeQualificationProfile" : "customerServicingRepresentativeQualificationProfile",
+      "customerServicingRepresentativeLocation" : "customerServicingRepresentativeLocation"
+    },
+    "customerServicingRepresentativeAllocationSchedule" : "customerServicingRepresentativeAllocationSchedule",
+    "contactCenterServiceOperatingConfiguration" : "contactCenterServiceOperatingConfiguration",
+    "customerServicingRepresentativeReference" : "722290"
+  },
+  "requestRecordReference" : "RRR751869",
+  "contactCenterAdministrativePlanRequestActionTaskReference" : "CCAPRATR741194",
+  "contactCenterAdministrativePlanRequestActionTaskRecord" : {},
+  "requestResponseRecord" : {}
+}

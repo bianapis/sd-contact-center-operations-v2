@@ -1,0 +1,25 @@
+{
+  "assignmentRetrieveActionTaskReference" : "ARATR756491",
+  "assignmentInstanceAnalysis" : {
+    "assignmentInstanceAnalysisReportType" : "assignmentInstanceAnalysisReportType",
+    "assignmentInstanceAnalysisReport" : {},
+    "assignmentInstanceAnalysisRecord" : {},
+    "assignmentInstanceAnalysisParameters" : "assignmentInstanceAnalysisParameters"
+  },
+  "assignmentInstanceRecord" : {
+    "assignmentCustomerServicingPositionReference" : "786453",
+    "assignmentCustomerServicingRepresentative" : "assignmentCustomerServicingRepresentative",
+    "assignmentCustomerServicingPositionProfile" : "assignmentCustomerServicingPositionProfile",
+    "assignmentCustomerServicingPositionSchedule" : {
+      "customerContactSessionProcedureInstanceReference" : "797989"
+    }
+  },
+  "assignmentInstanceReport" : {
+    "assignmentInstanceReportType" : "assignmentInstanceReportType",
+    "assignmentInstanceReportParameters" : "assignmentInstanceReportParameters",
+    "assignmentInstanceReportRecord" : {},
+    "assignmentInstanceReport" : {}
+  },
+  "assignmentRetrieveActionTaskRecord" : {},
+  "assignmentRetrieveActionResponse" : "assignmentRetrieveActionResponse"
+}

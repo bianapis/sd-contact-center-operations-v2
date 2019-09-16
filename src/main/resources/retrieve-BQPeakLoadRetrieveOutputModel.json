@@ -1,0 +1,26 @@
+{
+  "peakLoadRetrieveActionTaskReference" : "PLRATR709801",
+  "peakLoadInstanceRecord" : {
+    "peakLoadResponseTask" : {
+      "peakLoadResponseTaskType" : "peakLoadResponseTaskType",
+      "peakLoadResponseDescription" : "peakLoadResponseDescription"
+    },
+    "contactCenterServiceStatistics" : {
+      "contactCenterServiceStatisticType" : "contactCenterServiceStatisticType"
+    }
+  },
+  "peakLoadInstanceReport" : {
+    "peakLoadInstanceReportRecord" : {},
+    "peakLoadInstanceReportType" : "peakLoadInstanceReportType",
+    "peakLoadInstanceReportParameters" : "peakLoadInstanceReportParameters",
+    "peakLoadInstanceReport" : {}
+  },
+  "peakLoadInstanceAnalysis" : {
+    "peakLoadInstanceAnalysisReport" : {},
+    "peakLoadInstanceAnalysisRecord" : {},
+    "peakLoadInstanceAnalysisParameters" : "peakLoadInstanceAnalysisParameters",
+    "peakLoadInstanceAnalysisReportType" : "peakLoadInstanceAnalysisReportType"
+  },
+  "peakLoadRetrieveActionTaskRecord" : {},
+  "peakLoadRetrieveActionResponse" : "peakLoadRetrieveActionResponse"
+}

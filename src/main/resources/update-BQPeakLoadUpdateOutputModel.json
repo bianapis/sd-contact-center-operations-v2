@@ -1,0 +1,14 @@
+{
+  "peakLoadUpdateActionTaskRecord" : {},
+  "peakLoadUpdateActionTaskReference" : "PLUATR772444",
+  "peakLoadInstanceRecord" : {
+    "peakLoadResponseTask" : {
+      "peakLoadResponseTaskType" : "peakLoadResponseTaskType",
+      "peakLoadResponseDescription" : "peakLoadResponseDescription"
+    },
+    "contactCenterServiceStatistics" : {
+      "contactCenterServiceStatisticType" : "contactCenterServiceStatisticType"
+    }
+  },
+  "updateResponseRecord" : {}
+}

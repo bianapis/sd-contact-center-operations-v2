@@ -1,0 +1,14 @@
+{
+  "assignmentInstanceRecord" : {
+    "assignmentCustomerServicingPositionReference" : "746533",
+    "assignmentCustomerServicingRepresentative" : "assignmentCustomerServicingRepresentative",
+    "assignmentCustomerServicingPositionProfile" : "assignmentCustomerServicingPositionProfile",
+    "assignmentCustomerServicingPositionSchedule" : {
+      "customerContactSessionProcedureInstanceReference" : "789042"
+    }
+  },
+  "assignmentInitiateActionRecord" : {},
+  "assignmentInstanceReference" : "AIR726945",
+  "assignmentInstanceStatus" : "assignmentInstanceStatus",
+  "assignmentInitiateActionReference" : "AIAR732717"
+}

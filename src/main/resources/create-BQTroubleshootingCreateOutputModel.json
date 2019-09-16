@@ -1,0 +1,10 @@
+{
+  "troubleshootingInstanceRecord" : {
+    "contactCenterProductionIssueRecord" : {},
+    "contactCenterIssueAnalysisAndRecommendedResponse" : "contactCenterIssueAnalysisAndRecommendedResponse"
+  },
+  "troubleshootingInstanceReference" : "TIR727947",
+  "troubleshootingInstanceStatus" : "troubleshootingInstanceStatus",
+  "troubleshootingInitiateActionRecord" : {},
+  "troubleshootingInitiateActionReference" : "TIAR781319"
+}
